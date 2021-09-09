@@ -1,0 +1,22 @@
+.head{
+	margin: 0;
+	padding: 0;
+}
+
+
+.right h3{
+	color: red;
+	font-size: 30pt;
+	padding-bottom: 10px;
+}
+
+.right p{
+	color: green;
+	font-size: 16pt;
+}
+
+.img{
+    padding: 20px;
+    width: 109px;
+}
+}
